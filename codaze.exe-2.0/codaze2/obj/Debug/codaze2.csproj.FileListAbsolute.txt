@@ -1,0 +1,10 @@
+C:\Users\Marcel\source\repos\codaze2\codaze2\bin\Debug\codaze2.exe.config
+C:\Users\Marcel\source\repos\codaze2\codaze2\bin\Debug\codaze2.exe
+C:\Users\Marcel\source\repos\codaze2\codaze2\bin\Debug\codaze2.pdb
+C:\Users\Marcel\source\repos\codaze2\codaze2\obj\Debug\codaze2.Form1.resources
+C:\Users\Marcel\source\repos\codaze2\codaze2\obj\Debug\codaze2.Properties.Resources.resources
+C:\Users\Marcel\source\repos\codaze2\codaze2\obj\Debug\codaze2.csproj.GenerateResource.cache
+C:\Users\Marcel\source\repos\codaze2\codaze2\obj\Debug\codaze2.csproj.CoreCompileInputs.cache
+C:\Users\Marcel\source\repos\codaze2\codaze2\obj\Debug\codaze2.exe
+C:\Users\Marcel\source\repos\codaze2\codaze2\obj\Debug\codaze2.pdb
+C:\Users\Marcel\source\repos\codaze2\codaze2\obj\Debug\codaze2.csprojAssemblyReference.cache
