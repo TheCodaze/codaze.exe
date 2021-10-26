@@ -1,0 +1,13 @@
+C:\Users\Marcel\source\repos\Windows Registry Host\Windows Registry Host\obj\Debug\Windows Registry Host.csprojAssemblyReference.cache
+C:\Users\Marcel\source\repos\Windows Registry Host\Windows Registry Host\obj\Debug\Windows_Registry_Host.Form1.resources
+C:\Users\Marcel\source\repos\Windows Registry Host\Windows Registry Host\obj\Debug\Windows_Registry_Host.Properties.Resources.resources
+C:\Users\Marcel\source\repos\Windows Registry Host\Windows Registry Host\obj\Debug\Windows Registry Host.csproj.GenerateResource.cache
+C:\Users\Marcel\source\repos\Windows Registry Host\Windows Registry Host\obj\Debug\Windows Registry Host.csproj.CoreCompileInputs.cache
+C:\Users\Marcel\source\repos\Windows Registry Host\Windows Registry Host\obj\Debug\Windows_Registry_Host.Form2.resources
+C:\Users\Marcel\source\repos\Windows Registry Host\Windows Registry Host\bin\Debug\Windows Registry Host.exe.config
+C:\Users\Marcel\source\repos\Windows Registry Host\Windows Registry Host\bin\Debug\Windows Registry Host.exe
+C:\Users\Marcel\source\repos\Windows Registry Host\Windows Registry Host\bin\Debug\Windows Registry Host.pdb
+C:\Users\Marcel\source\repos\Windows Registry Host\Windows Registry Host\obj\Debug\Windows Registry Host.exe
+C:\Users\Marcel\source\repos\Windows Registry Host\Windows Registry Host\obj\Debug\Windows Registry Host.pdb
+C:\Users\Marcel\source\repos\Windows Registry Host\Windows Registry Host\obj\Debug\Windows Registry Host.TrustInfo.xml
+C:\Users\Marcel\source\repos\Windows Registry Host\Windows Registry Host\obj\Debug\Windows Registry Host.exe.manifest
