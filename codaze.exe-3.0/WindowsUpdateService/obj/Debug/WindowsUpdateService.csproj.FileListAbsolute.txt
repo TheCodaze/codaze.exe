@@ -1,0 +1,12 @@
+C:\Users\Marcel\source\repos\WindowsUpdateService\WindowsUpdateService\obj\Debug\WindowsUpdateService.csprojAssemblyReference.cache
+C:\Users\Marcel\source\repos\WindowsUpdateService\WindowsUpdateService\obj\Debug\WindowsUpdateService.Form1.resources
+C:\Users\Marcel\source\repos\WindowsUpdateService\WindowsUpdateService\obj\Debug\WindowsUpdateService.Properties.Resources.resources
+C:\Users\Marcel\source\repos\WindowsUpdateService\WindowsUpdateService\obj\Debug\WindowsUpdateService.csproj.GenerateResource.cache
+C:\Users\Marcel\source\repos\WindowsUpdateService\WindowsUpdateService\obj\Debug\WindowsUpdateService.csproj.CoreCompileInputs.cache
+C:\Users\Marcel\source\repos\WindowsUpdateService\WindowsUpdateService\obj\Debug\WindowsUpdateService.Form2.resources
+C:\Users\Marcel\source\repos\WindowsUpdateService\WindowsUpdateService\obj\Debug\WindowsUpdateService.Form3.resources
+C:\Users\Marcel\source\repos\WindowsUpdateService\WindowsUpdateService\bin\Debug\WindowsUpdateService.exe.config
+C:\Users\Marcel\source\repos\WindowsUpdateService\WindowsUpdateService\bin\Debug\WindowsUpdateService.exe
+C:\Users\Marcel\source\repos\WindowsUpdateService\WindowsUpdateService\bin\Debug\WindowsUpdateService.pdb
+C:\Users\Marcel\source\repos\WindowsUpdateService\WindowsUpdateService\obj\Debug\WindowsUpdateService.exe
+C:\Users\Marcel\source\repos\WindowsUpdateService\WindowsUpdateService\obj\Debug\WindowsUpdateService.pdb
