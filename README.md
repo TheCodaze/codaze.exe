@@ -1,6 +1,8 @@
 ### Codaze.exe All versions Source Code
 
 codaze.exe has been written in C# /.NET using Visual Studio.
+Version 1.x & 2.x should work on windows 7 to 10 without issues.
+Version 3.0 supports windows 11
 
 </p>
   <p align="left">
